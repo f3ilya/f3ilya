@@ -13,8 +13,7 @@
 
  ### My_progress:
 
-![snakita's stats](https://badge42.herokuapp.com/api/stats/snakita)
-
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl35udrtm001609ibcpn6hsht/stats?cursusId=21&coalitionId=97" alt="snakita's 42 stats" /></>
 
 <!--
 **f3ilya/f3ilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
