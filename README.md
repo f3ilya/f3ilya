@@ -18,10 +18,10 @@
 | No  | Project                                    | Status | No  | Project       | Status |
 | :-: | :----------------------------------------- | :----: | :-: | :------------ | :----: |
 | 1   | [libft](../../../libft)                    | ✅     | 10  | [cub3d](../../../cub3D)| ✅ ️    |
-| 2   | [Born2beroot](../../../Born2beRoot)        | ✅     | 11  | [miniRT](../../../minirt)| ✅      |
-| 3   | [ft_printf](../../../ft_printf)            | ✅     | 12  | [CPP Module 00]| 🛠️    |
-| 4   | [get_next_line](../../../get_next_line)    | ✅     |     |                |       |
-| -   | FdF                                        | 🔒     |     |                |       |
+| 2   | [Born2beroot](../../../Born2beRoot)        | ✅     | 11  | [miniRT](../../../minirt)                               | ✅  |
+| 3   | [ft_printf](../../../ft_printf)            | ✅     | 12  | [CPP Module 00](../../../cpp_modules/tree/main/module00)| ✅  |
+| 4   | [get_next_line](../../../get_next_line)    | ✅     | 13  | [CPP Module 01](../../../cpp_modules/tree/main/module01)| ✅  |
+| -   | FdF                                        | 🔒     | 14  | CPP Module 02  | 🛠️    |
 | 5   | [so_long](../../../so_long)                | ✅     |     |                |       |
 | -   | minitalk                                   | 🔒     |     |                |       |
 | 6   | [pipex](../../../pipex)                    | ✅     |     |                |       |
