@@ -13,7 +13,7 @@
 
  ### My_progress
  
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl35udrtm001609ibcpn6hsht/stats?cursusId=21&coalitionId=97" alt="snakita's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl35udrtm001609ibcpn6hsht/stats?cursusId=21&coalitionId=102" alt="snakita's 42 stats" /></a>
 
 | No  | Project                                    | Status | No  | Project                                                 | Status |
 | :-: | :----------------------------------------- | :----: | :-: | :------------------------------------------------------ | :----: |
