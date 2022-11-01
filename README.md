@@ -15,14 +15,14 @@
  
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl35udrtm001609ibcpn6hsht/stats?cursusId=21&coalitionId=97" alt="snakita's 42 stats" /></a>
 
-| No  | Project                                    | Status | No  | Project       | Status |
-| :-: | :----------------------------------------- | :----: | :-: | :------------ | :----: |
-| 1   | [libft](../../../libft)                    | ✅     | 10  | [cub3d](../../../cub3D)                                 | ✅ ️ |
-| 2   | [Born2beroot](../../../Born2beRoot)        | ✅     | 11  | [miniRT](../../../minirt)                               | ✅  |
-| 3   | [ft_printf](../../../ft_printf)            | ✅     | 12  | [CPP Module 00](../../../cpp_modules/tree/main/module00)| ✅  |
-| 4   | [get_next_line](../../../get_next_line)    | ✅     | 13  | [CPP Module 01](../../../cpp_modules/tree/main/module01)| ✅  |
-| -   | FdF                                        | 🔒     | 14  | [CPP Module 02](../../../cpp_modules/tree/main/module02)| ✅  |
-| 5   | [so_long](../../../so_long)                | ✅     | 15  | [CPP Module 03](../../../cpp_modules/tree/main/module03)| ✅  |
+| No  | Project                                    | Status | No  | Project                                                 | Status |
+| :-: | :----------------------------------------- | :----: | :-: | :------------------------------------------------------ | :----: |
+| 1   | [libft](../../../libft)                    | ✅     | 10  | [cub3d](../../../cub3D)                                 | ✅ ️    |
+| 2   | [Born2beroot](../../../Born2beRoot)        | ✅     | 11  | [miniRT](../../../minirt)                               | ✅     |
+| 3   | [ft_printf](../../../ft_printf)            | ✅     | 12  | [CPP Module 00](../../../cpp_modules/tree/main/module00)| ✅     |
+| 4   | [get_next_line](../../../get_next_line)    | ✅     | 13  | [CPP Module 01](../../../cpp_modules/tree/main/module01)| ✅     |
+| -   | FdF                                        | 🔒     | 14  | [CPP Module 02](../../../cpp_modules/tree/main/module02)| ✅     |
+| 5   | [so_long](../../../so_long)                | ✅     | 15  | [CPP Module 03](../../../cpp_modules/tree/main/module03)| ✅     |
 | -   | minitalk                                   | 🔒     | 16  | CPP Module 04  |   🛠️  |
 | 6   | [pipex](../../../pipex)                    | ✅     |     |                |       |
 | 7   | [push_swap](../../../push_swap)            | ✅     |     |                |       |
