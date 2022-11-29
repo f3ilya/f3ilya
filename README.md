@@ -25,8 +25,8 @@
 | 5   | [so_long](../../../so_long)                | ✅     | 15  | [CPP Module 03](../../../cpp_modules/tree/main/module03)| ✅     |
 | -   | minitalk                                   | 🔒     | 16  | [CPP Module 04](../../../cpp_modules/tree/main/module04)| ✅     |
 | 6   | [pipex](../../../pipex)                    | ✅     | 17  | [CPP Module 05](../../../cpp_modules/tree/main/module05)| ✅     |
-| 7   | [push_swap](../../../push_swap)            | ✅     |     |  CPP Module 06 |  🛠️    |
-| 8   | [minishell](../../../minishell)            | ✅     |     |                |       |
+| 7   | [push_swap](../../../push_swap)            | ✅     | 18  | [CPP Module 06](../../../cpp_modules/tree/main/module06)| ✅     |
+| 8   | [minishell](../../../minishell)            | ✅     | 19  |  CPP Module 07 | 🛠️     |
 | 9   | [philosophers](../../../philosophers)      | ✅     |     |                |       |
 
 
