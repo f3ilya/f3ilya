@@ -77,16 +77,16 @@ ViewBinding, сложные UI-анимации.
 ## 📫 Как со мной связаться
 
 <a href="https://t.me/f3_ilya">
-  <img align="left" alt="Eric's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="f3ilya's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/f3_ilya/">
-  <img align="left" alt="Eric's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="f3ilya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://vk.com/f3_ilya/">
-  <img align="left" alt="Eric's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vk.svg" />
+  <img align="left" alt="f3ilya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vk.svg" />
 </a>
-<a href="ilya-paranin@mail.ru">
-  <img align="left" alt="Eric's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />
+<a href="mailto:ilya-paranin@mail.ru">
+  <img align="left" alt="f3ilya's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />
 </a>
 
 
