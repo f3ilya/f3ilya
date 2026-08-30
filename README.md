@@ -85,10 +85,10 @@ ViewBinding, сложные UI-анимации.
 <a href="https://vk.com/f3_ilya/">
   <img align="left" alt="Eric's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vk.svg" />
 </a>
+<a href="ilya-paranin@mail.ru">
+  <img align="left" alt="Eric's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />
+</a>
 
-
-- **Email:** ilya-paranin@mail.ru
-- **Город:** Казань (готов к удаленной работе или релокации)
 
 <!--
 **f3ilya/f3ilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
