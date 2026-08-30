@@ -86,8 +86,6 @@ ViewBinding, сложные UI-анимации.
   <img align="left" alt="Eric's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vk.svg" />
 </a>
 
-<br />
-
 
 - **Email:** ilya-paranin@mail.ru
 - **Город:** Казань (готов к удаленной работе или релокации)
