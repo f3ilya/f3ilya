@@ -9,11 +9,12 @@
 
 - **Языки:** Kotlin, Java (Core, Collections, ООП), C/C++ (алгоритмическая база)
 - **Архитектура:** MVVM, Clean Architecture, MVI
-- **UI & Анимации:** Custom Views (отрисовка на Canvas с нуля), Jetpack Compose, XML Layouts, ViewBinding, Android Animation Framework
-- **Асинхронность:** Kotlin Coroutines, Flow
+- **UI & Анимации:** Custom Views (компоненты с нуля), Jetpack Compose, XML Layouts,
+ViewBinding, сложные UI-анимации.
+- **Асинхронность и многопоточность:** Kotlin Coroutines, Flow
 - **Управление зависимостями:** DI (Hilt, Dagger 2)
-- **Сеть и БД:** Retrofit, Room DB, OkHttp, Serialization (Moshi / KotlinX)
-- **Инструменты:** Git, Android Studio, Gradle
+- **Сеть и БД:** Retrofit, Room DB, OkHttp, Serialization (Moshi / KotlinX Serialization)
+- **Инструменты:** Git, Android Studio, Gradle, Intellij IDEA
 
 ---
 
@@ -39,7 +40,7 @@
 ## 🎓 Образование и Сертификаты
 
 ### 🏅 Ecole 42 / Школа 21 (Выпуск: 21 июня 2023 г.)
-Успешно завершил основное обучение, достигнув **Level 12** со званием **Architect in Digital Technologies**. 
+Успешно завершил основное обучение со званием **Architect in Digital Technologies**. 
 - Программа построена на жесткой системе *peer-to-peer* (взаимная проверка без лекторов), что развило во мне абсолютную автономность в поиске решений и разборе сложного ТЗ.
 - Глубоко освоил низкоуровневые алгоритмы, управление памятью, многопоточность и устройство операционных систем.
 
