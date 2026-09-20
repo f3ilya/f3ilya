@@ -25,6 +25,11 @@ ViewBinding, сложные UI-анимации.
 - **Стек:** Kotlin, Coroutines, Room DB, Retrofit, Architecture Components (ViewModel, LiveData).
 - **Что сделано:** Реализовал архитектуру MVVM, настроил локальное кэширование через Room для обеспечения offline-first режима и бесшовную синхронизацию данных с удаленным сервером через REST API.
 
+### 🗺️ [MyAppWithMaps](https://github.com/f3ilya/MyAppWithMaps) — Приложение с интеграцией Yandex Maps
+*Android-приложение, демонстрирующее работу с картографическим SDK Yandex Maps, геолокацией и интерактивными элементами на карте.*
+- **Стек:** Kotlin, Yandex Maps SDK, Coroutines, Google Play Services (Location), XML Layouts.
+- **Что сделано:** Интегрировал Yandex Maps SDK в проект, настроил отображение карты и работу с пользовательской геолокацией. Реализовал добавление и отображение маркеров на карте, обработку событий взаимодействия с картой (нажатия, перемещение камеры) и корректную работу с разрешениями на доступ к местоположению.
+
 ### 🎨 [StatsView](../../../StatsView) — Кастомный UI-компонент с анимацией
 *Проект-демонстрация продвинутой работы с графической системой Android и отрисовкой кастомного интерфейса.*
 - **Стек:** Kotlin, Canvas API, Android Animation Framework.
