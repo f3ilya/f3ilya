@@ -27,7 +27,7 @@ ViewBinding, сложные UI-анимации.
 
 ### 🗺️ [MyAppWithMaps](https://github.com/f3ilya/MyAppWithMaps) — Приложение с интеграцией Yandex Maps
 *Android-приложение, демонстрирующее работу с картографическим SDK Yandex Maps, геолокацией и интерактивными элементами на карте.*
-- **Стек:** Kotlin, Yandex Maps SDK, Coroutines, Google Play Services (Location), XML Layouts.
+- **Стек:** Kotlin, Yandex Maps SDK, Coroutines, Room DB, Google Play Services (Location), XML Layouts.
 - **Что сделано:** Интегрировал Yandex Maps SDK в проект, настроил отображение карты и работу с пользовательской геолокацией. Реализовал добавление и отображение маркеров на карте, обработку событий взаимодействия с картой (нажатия, перемещение камеры) и корректную работу с разрешениями на доступ к местоположению.
 
 ### 🎨 [StatsView](../../../StatsView) — Кастомный UI-компонент с анимацией
