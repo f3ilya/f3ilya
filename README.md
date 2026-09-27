@@ -32,7 +32,7 @@ ViewBinding, сложные UI-анимации.
 
 ### 🎵 [Multimedia](https://github.com/f3ilya/Multimedia) — Онлайн-медиаплеер для проигрывания альбомов
 *Android-приложение для потокового воспроизведения музыки: данные об альбомах и треках загружаются из сети, воспроизведение также происходит онлайн.*
-- **Стек:** Kotlin, MediaPlayer, Retrofit, Coroutines, Shimmer (Facebook), Architecture Components, Gradle Kotlin DSL.
+- **Стек:** Kotlin, MediaPlayer, Retrofit, Coroutines, StateFlow, Clean Architecture (MVVM), Shimmer (Facebook), Gradle Kotlin DSL.
 - **Что сделано:** Реализовал загрузку данных об альбоме из сети через Retrofit и потоковое воспроизведение треков через `MediaPlayer`. Добавил shimmer-эффект (скелетон-заглушку), который отображается во время загрузки альбома и обеспечивает плавный переход к контенту. Настроил CI через GitHub Actions для автоматической сборки проекта.
 
 ### 🎨 [StatsView](../../../StatsView) — Кастомный UI-компонент с анимацией
